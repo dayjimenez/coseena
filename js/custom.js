@@ -13,6 +13,7 @@ $(".modal").on('hidden.bs.modal', function () {
 //for slider tabs active class
 $('.carousel').carousel({
 	interval: 6000,
+	pause: null,
 	duration: 1000 // this duration doesn't do anything
 });
 
