@@ -14,7 +14,7 @@ $(".modal").on('hidden.bs.modal', function () {
 $('.carousel').carousel({
 	interval: 6000,
 	pause: null,
-	duration: 1000 // this duration doesn't do anything
+    duration: 1000 // this duration doesn't do anything
 });
 
 /*
