@@ -920,6 +920,7 @@ footer p.pre-order{
 	border-radius: 75px;
 	height:54px;
 	padding: 14px;
+	text-transform: none;
 	
 	animation-timing-function: ease-out;
 	
